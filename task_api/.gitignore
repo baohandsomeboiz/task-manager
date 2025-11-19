@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Môi trường ảo)
+venv/
+env/
+.env
+
+# Database (SQLite nếu có)
+db.sqlite3
+
+# VS Code settings
+.vscode/
